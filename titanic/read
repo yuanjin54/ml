@@ -1,0 +1,13 @@
+字段说明：
+•PassengerID（ID）
+•Survived(存活与否)
+•Pclass（客舱等级，较为重要）
+•Name（姓名，可提取出更多信息）
+•Sex（性别，较为重要）
+•Age（年龄，较为重要）
+•Parch（直系亲友）
+•SibSp（旁系）
+•Ticket（票编号）
+•Fare（票价）
+•Cabin（客舱编号）
+•Embarked（上船的港口编号）
